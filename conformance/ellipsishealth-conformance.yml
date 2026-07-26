@@ -1,0 +1,19 @@
+generated: '2026-07-19'
+method: searched
+source: https://ellipsishealth.com/ethical-ai/
+standards:
+  - id: hipaa
+    conforms: true
+    evidence: 'ethical-ai page states "HIPAA & SOC2 Type 2 compliant infrastructure"'
+  - id: soc2-type2
+    conforms: true
+    evidence: 'ethical-ai page states "HIPAA & SOC2 Type 2 compliant infrastructure"'
+  - id: third-party-security-audit
+    conforms: true
+    evidence: 'ethical-ai page references "Regular 3rd party-security audits"'
+notes: >-
+  Ellipsis Health publishes a compliance posture (HIPAA, SOC 2 Type 2, regular
+  third-party security audits) on its Ethical AI page. No public developer
+  portal, OpenAPI, or dedicated trust center was found; the Ellipsis Health API
+  is a private partner integration surface (e.g. Augmedix), not publicly
+  documented. Standards asserted here are from published claims, not a spec.

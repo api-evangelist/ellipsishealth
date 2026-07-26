@@ -1,8 +1,32 @@
 aid: ellipsishealth
-name: Ellipsishealth
-description: Ellipsishealth is a company surfaced as a portfolio company of khosla-ventures and added
-  to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/ellipsishealth.png
+name: Ellipsis Health
+description: >-
+  Ellipsis Health is a healthcare AI company that has established the human voice
+  as a vital sign for mental health, using clinically validated vocal-biomarker
+  technology, natural language processing, and acoustic models to identify,
+  measure, and monitor the severity of depression and anxiety from short samples
+  of natural speech. Its flagship product, Sage, is an emotionally intelligent,
+  agentic AI care manager that conducts 24/7 patient-engagement calls for health
+  plans, health systems, specialty care, and pharma, handling program
+  enrollment, benefits verification, clinical assessments and surveys, and care
+  coordination. Sage is powered by Ellipsis' patented Empathy Engine, trained on
+  millions of live clinical patient calls, and runs on HIPAA and SOC 2 Type 2
+  compliant infrastructure. Ellipsis Health integrates with health plans and
+  systems such as Cigna, and exposes a private partner API (used by partners like
+  Augmedix) rather than a public developer platform. The company is backed by
+  Khosla Ventures, Salesforce Ventures, and CVS Health Ventures.
 url: https://raw.githubusercontent.com/api-evangelist/ellipsishealth/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,9 +36,17 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Healthcare
+- Mental Health
+- Artificial Intelligence
+- Vocal Biomarkers
+- Voice AI
+- Digital Health
+- Care Management
+- HIPAA
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,4 +55,31 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: http://www.ellipsishealth.com/
+  url: https://ellipsishealth.com/
+- type: Product
+  url: https://ellipsishealth.com/product/
+- type: Solutions
+  url: https://ellipsishealth.com/solutions/
+- type: Blog
+  url: https://ellipsishealth.com/insights/
+- type: About
+  url: https://ellipsishealth.com/about-us/
+- type: Support
+  url: https://ellipsishealth.com/contact-us/
+- type: SignUp
+  url: https://ellipsishealth.com/schedule-a-demo/
+- type: TermsOfService
+  url: https://ellipsishealth.com/terms-of-use/
+- type: PrivacyPolicy
+  url: https://ellipsishealth.com/privacy-policy/
+- type: Compliance
+  url: https://ellipsishealth.com/ethical-ai/
+- type: Conformance
+  url: conformance/ellipsishealth-conformance.yml
+- type: DomainSecurity
+  url: security/ellipsishealth-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
