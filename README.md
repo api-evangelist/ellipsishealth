@@ -1,4 +1,4 @@
-# Ellipsishealth
+# Ellipsis Health
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,6 +64,85 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Ellipsishealth is a company surfaced as a portfolio company of khosla-ventures and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Ellipsis Health is a healthcare AI company that has established the human voice as a vital sign for mental health, using clinically validated vocal-biomarker technology, natural language processing, and acoustic models to identify, measure, and monitor the severity of depression and anxiety from short samples of natural speech. Its flagship product, Sage, is an emotionally intelligent, agentic AI care manager that conducts 24/7 patient-engagement calls for health plans, health systems, specialty care, and pharma, handling program enrollment, benefits verification, clinical assessments and surveys, and care coordination. Sage is powered by Ellipsis' patented Empathy Engine, trained on millions of live clinical patient calls, and runs on HIPAA and SOC 2 Type 2 compliant infrastructure. Ellipsis Health integrates with health plans and systems such as Cigna, and exposes a private partner API (used by partners like Augmedix) rather than a public developer platform. The company is backed by Khosla Ventures, Salesforce Ventures, and CVS Health Ventures.
 
-Backed by: khosla-ventures — http://www.ellipsishealth.com/
+**Areas:** Company · Healthcare · Mental Health · Artificial Intelligence · Vocal Biomarkers · Voice AI · Digital Health · Care Management · HIPAA
+
+## Ellipsis Health on APIs.io
+
+Everything profiled for Ellipsis Health is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/ellipsishealth/](https://apis.io/providers/ellipsishealth/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Ellipsishealth Domain Security](https://apis.io/security/ellipsishealth/ellipsishealth-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://ellipsishealth.com/)
+- [Sign up](https://ellipsishealth.com/schedule-a-demo/)
+- [Support](https://ellipsishealth.com/contact-us/)
+- [Blog](https://ellipsishealth.com/insights/)
+- [Compliance](https://ellipsishealth.com/ethical-ai/)
+- [Terms of service](https://ellipsishealth.com/terms-of-use/)
+- [Privacy policy](https://ellipsishealth.com/privacy-policy/)
+
+## API Evangelist rating
+
+**Kin Score 17.7** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 18.2 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 42.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 17.6** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/ellipsishealth/](https://apis.io/providers/ellipsishealth/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Ellipsis Health: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/ellipsishealth/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
